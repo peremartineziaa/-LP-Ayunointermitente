@@ -1,0 +1,6 @@
+{
+  "name": "Operación Cuerpo Nuevo",
+  "description": "Programa de 90 días para perder peso de forma saludable y mantener el resultado para siempre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
